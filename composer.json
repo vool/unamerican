@@ -1,0 +1,18 @@
+{
+    "name": "vool/unamerican",
+    "description": "Proper English for Laravel",
+    "keywords": ["spelling", "laravel", "humour"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keith",
+            "email": "keith@vool.ie"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vool\\Unamerican\\": "src/"
+        }
+    }
+}
